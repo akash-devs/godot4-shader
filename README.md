@@ -20,7 +20,7 @@ Every material in this pack is 100% procedural—meaning **zero external texture
 * **How it works:** Layers a slow-crawling fluid noise mask over a dense dark rocky base color. High-contrast threshold settings create sharp, glowing molten cracks that break through the surface crust naturally.
 * **Best use:** Volcanic hazards, burning fireballs, or environmental set pieces.
 
-### 4. Stylized Water (`water.gdshader`)
+### 4. Stylized toon_Water (`water.gdshader`)
 * **How it works:** Slides two independent 3D noise fields past each other in opposite directions. A sharp cel-shaded threshold step converts the intersecting lines into stylized cartoon water foam that looks clean from any distance.
 * **Best use:** Stylized RPG water elements, magical liquid flasks, or water planets.
 
