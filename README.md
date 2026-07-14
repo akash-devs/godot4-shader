@@ -1,4 +1,5 @@
 # Godot 4.7 Procedural 3D Shader Pack
+**V-0.0.1**
 
 An optimized, asset-free library of four completely math-driven procedural shaders built natively for **Godot 4.7**. 
 
