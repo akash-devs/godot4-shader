@@ -42,7 +42,7 @@ If you want to clone this entire repo and see everything working right out of th
 1. Download or clone this repository to your computer.
 2. Open the **Godot Project Manager** and click **Import**.
 3. Browse to this folder, select the `project.godot` file, and open it.
-4. Open and run `Scenes/scene.tscn` (or press **F6**) to see all four spheres running live side-by-side with a real-time hardware FPS counter script!
+4. Open and run `scenes/showcase.tscn` (or press **F6**) to see all four spheres running live side-by-side with a real-time hardware FPS counter script!
 
 ### Option B: Dropping Individual Shaders Into Your Game
 If you just want to copy a single shader into an existing project:
